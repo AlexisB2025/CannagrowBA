@@ -1,0 +1,1 @@
+// Página Perfil - placeholder funcional

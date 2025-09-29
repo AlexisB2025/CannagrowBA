@@ -1,0 +1,1 @@
+// Componente configuración - placeholder funcional

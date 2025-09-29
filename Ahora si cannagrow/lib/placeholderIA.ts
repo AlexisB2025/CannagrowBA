@@ -1,0 +1,1 @@
+// Funciones IA placeholder - funcional

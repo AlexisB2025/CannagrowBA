@@ -1,0 +1,1 @@
+// Componente biblioteca - placeholder funcional

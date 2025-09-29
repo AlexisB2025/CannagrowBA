@@ -1,0 +1,1 @@
+// Componente calendario - placeholder funcional
